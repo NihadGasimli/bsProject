@@ -1,0 +1,162 @@
+.sec1 {
+    background-color: #000;
+    height: 75vh;
+}
+
+.leftSide {
+    width: 50%;
+}
+
+.sec1 .leftSide h1 {
+    font-size: 58px;
+    font-weight: 600;
+}
+.sec1 .leftSide p{
+    font-size: 20px;font-weight: 300;
+}
+.sec1 .leftSide .firstButton{
+    font-size: 18px; font-weight: 500; background-color: #8A5CD9;
+}
+.sec1 .leftSide .secondButton{
+    font-size: 18px; font-weight: 500; background-color: #000; border:2px solid #8A5CD9; color: #8A5CD9;
+}
+
+.sec1 .rightSide img{
+    left: 100px;
+}
+.sec1 .rightSide .circles .first{
+    background-color: #8A5CD9; width: 150px; height: 150px; left: 600px; top: -110px; z-index: 1;
+}
+
+.sec1 .rightSide .circles .second{
+    background-color: #F0974F; width: 150px; height: 150px; left: 730px; top: -265px;
+}
+
+.sec2 .chooseText h2{
+    font-size: 50px; font-weight: 600;
+}
+.sec2 .mainDiv{
+    border: 2px solid #000; background-color: #E5E5E5;
+    width: 83%;
+}
+.sec2 .mainDiv .leftSide h2{
+    font-weight: 100; font-size: 35px;
+}
+.sec2 .mainDiv .leftSide .firstParagraph{
+    font-weight: 400; width: 90%
+}
+.sec2 .mainDiv .leftSide .firstParagraph{
+    font-style: italic; font-weight: 800;
+}
+.sec2 .mainDiv .rightSide .cardOfRightSide{
+    border: 2px solid black; background-color: #FFF;
+}
+
+.sec2 .mainDiv .rightSide .cardOfRightSide h2{
+    font-size: 60px; font-weight: bold;
+}
+.sec2 .mainDiv .rightSide .cardOfRightSide button{
+    background-color: #F0974F; border: 0px;
+}
+
+.sec3 .firstCard{
+    border: 2px solid #000;
+}
+.sec3 .secondCard{
+    border: 2px solid #000;
+}
+.sec3 .thirdCard{
+    border: 2px solid #000;
+}
+.sec3 .firstCard h2{
+    font-weight: 500;
+}
+
+.sec3 .firstCard h3{
+    font-weight: bold;
+}
+.sec3 .secondCard h2{
+    font-weight: 500;
+}
+
+.sec3 .secondCard h3{
+    font-weight: bold;
+}
+.sec3 .thirdCard h2{
+    font-weight: 500;
+}
+
+.sec3 .thirdCard h3{
+    font-weight: bold;
+}
+.sec3 .firstCard button{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+.sec3 .secondCard button{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+.sec3 .thirdCard button{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+.sec4{
+    height: 700px;
+    background-color: #8A5CD9;
+}
+.sec4 .leftSide h1 {
+    font-size: 58px;
+    font-weight: 600;
+}
+.sec4 .leftSide p{
+    font-size: 20px;font-weight: 300;
+}
+.sec4 .leftSide button{
+    font-size: 18px; font-weight: 500; background-color: #8A5CD9; border:2px solid #fff; color: #fff;
+}
+
+.sec4 .rightSide img{
+    left: 100px;
+}
+.sec4 .rightSide .circles .first{
+    background-color: #fff; width: 150px; height: 150px; left: 450px; top: -110px; z-index: 1;
+}
+
+.sec4 .rightSide .circles .second{
+    background-color: #F0974F; width: 150px; height: 150px; left: 550px; top: -265px;
+}
+
+.sec5{
+    background-color: #000;
+}
+.sec5 .leftSide h2{
+    font-size: 50px;
+    color: #fff;
+}
+.sec5 .leftSide p{
+    color: #fff;
+}
+.sec5 .rightSide label{
+    color: #fff;
+}
+.sec5 .rightSide input{
+    border: 0px;
+    border-bottom:2px solid #fff ;
+    background-color: #000;
+    color:#fff;
+}
+.sec5 .rightSide button{
+    background-color: #8A5CD9;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+
+
+
+
